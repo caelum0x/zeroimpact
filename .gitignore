@@ -1,0 +1,15 @@
+# contracts (Foundry)
+contracts/out/
+contracts/cache/
+contracts/broadcast/*/dry-run/
+contracts/.env
+
+# frontend (Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# misc
+.DS_Store
+*.log
